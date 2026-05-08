@@ -13,7 +13,7 @@
 ## 📌 Overview
 
 The **BlinkIt Sales Dashboard** provides insights into sales performance across multiple outlets. It helps analyze how outlet characteristics and item types impact overall business performance.
-
+  
 ---
 
 ## 🚀 Features
